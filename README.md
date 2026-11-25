@@ -2,7 +2,7 @@
 
 Notebook principal:
 
-- [lab9_caso2_residuos.ipynb](Laboratorio#9_YaniryCruz.ipynb)
+- [Laboratorio#9_YaniryCruz.ipynb](Laboratorio#9_YaniryCruz.ipynb)
 
 El notebook contiene:
 
